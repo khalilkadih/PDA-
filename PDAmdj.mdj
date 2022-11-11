@@ -3208,14 +3208,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 781,
+									"left": 770,
 									"top": 761,
+									"width": 23.49267578125,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
 									"hostEdge": {
 										"$ref": "AAAAAAGEFGdjAj40EEE="
-									}
+									},
+									"text": "+1.*"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3247,12 +3249,12 @@
 										"$ref": "AAAAAAGEFGdjAj4yxeg="
 									},
 									"font": "Arial;13;0",
-									"left": 768,
+									"left": 744,
 									"top": 735,
-									"width": 7.22998046875,
+									"width": 49,
 									"height": 13,
-									"alpha": 0.5235987755982988,
-									"distance": 25,
+									"alpha": 0.6291477074754472,
+									"distance": 22.67156809750927,
 									"hostEdge": {
 										"$ref": "AAAAAAGEFGdjAj40EEE="
 									},
